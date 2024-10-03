@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 🐟
+
+> As of right now there isn't much to see here, but give it some times
 
 <!--
 **ChuggleBug/ChuggleBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
